@@ -3,4 +3,5 @@
   display: flex;
   flex-wrap: wrap;
   background-color: #243240;
+  width: 100%;
 }
